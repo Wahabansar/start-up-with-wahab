@@ -1,0 +1,92 @@
+/* /* body {
+  background-image: url(latptop.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+} */
+
+/*html,
+body {
+  background: url(latptop.jpg) no-repeat center center fixed;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100%;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #6c7884;
+}
+
+.btn-xl {
+  padding: 1rem 2rem;
+  text-transform: uppercase;
+}
+
+.btn-primary {
+  background-color: tomato;
+  border-color: tomato;
+}
+.btn {
+  font-weight: 700;
+  border-radius: 300px;
+}
+.btn-xl:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 5px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+/* hr {
+  color: coral ;
+ max-width: 65px;
+} */
+/*@media screen and (max-width: 320px) {
+  h1 {
+    font-size: 14px;
+  }
+} */
+
+
+html,body{
+    background:url(laptop.jpg) no-repeat center center fixed;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+h1{
+    font-family: sans-serif;
+    text-transform: uppercase;
+    color: #e2bddb
+}
+.btn{
+    border-radius: 300px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 1rem 2rem;
+}
+.btn-primary{
+    background-color: tomato;
+    border-color: tomato;
+}
+.btn-primary:hover{
+    background-color: orangered;
+    border-color: orangered;
+    border-width: 3px;
+}
+hr{
+    max-width: 65px;
+    border-color: tomato;
+    border-width: 2px;
+}
+.buffer{
+    height: 10rem;
+}
+
